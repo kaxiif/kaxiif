@@ -1,10 +1,5 @@
 <h3 align="center">A passionate Full Stack developer from Sindh(Pakistan)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaxiif&label=Profile%20views&color=0e75b6&style=flat" alt="kaxiif" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaxiif" alt="kaxiif" /></a> </p>
-<img align="right" width="400"  src="https://ssit-jo.com/wp-content/uploads/2021/02/11.gif" />
-
 - 🔭 I’m currently working on [Website Builder](https://lbh1.netlify.app/)
 
 - 🌱 I’m currently learning **React Native, Blockchain**
