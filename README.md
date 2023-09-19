@@ -1,10 +1,10 @@
 <h3 align="center">A passionate Full Stack developer from Sindh(Pakistan)</h3>
 
-- 🔭 I’m currently working on [Website Builder](https://lbh1.netlify.app/)
+- 🔭 I’m currently working as Full Stack Engineer at Upwork and Fiver(As a Freelancer)
 
-- 🌱 I’m currently learning **React Native, Blockchain**
+- 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **ReactJS,MERN, Laravel, AWS, Freelancing**
+- 💬 Ask me about **NextJS, React Native, MERN, Laravel, AWS, Azure, GCP, Headless CSM ( Appwrite, Strapi), and Freelancing**
 
 - 📫 How to reach me **kashiemails@gmail.com**
 
